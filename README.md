@@ -10,10 +10,10 @@ npm install --save spotify-web-api-node vue-spotify
 And in your entry file:
 ```
 import Vue from 'vue'
-import spotify from 'spotify-web-api-node'
+import Spotify from 'spotify-web-api-node'
 import VueSpotify from 'vue-spotify'
 
-Vue.use(VueSpotify, spotify)
+Vue.use(VueSpotify, new Spotify())
 ```
 
 ### Script:
