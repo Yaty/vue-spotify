@@ -1,4 +1,8 @@
-[![NPM](https://nodei.co/npm/vue-spotify.png)](https://npmjs.org/package/vue-spotify)
+<p align="center">
+  <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/dm/vue-spotify.svg" alt="Downloads"></a>
+  <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/v/vue-spotify.svg" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/l/vue-spotify.svg" alt="License"></a>
+</p>
 
 # vue-spotify
 A small wrapper for integrating spotify-web-api-node to Vuejs
