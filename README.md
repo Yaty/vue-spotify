@@ -20,9 +20,10 @@ Vue.use(VueSpotify, spotify)
 Just add 3 scripts in order: `vue`, `spotify-web-api-node` and `vue-spotify` to your `document`.
 
 ## Usage:
-This wrapper bind `spotify-web-api-node` to `Vue` or `this` if you're using single file component.
+This wrapper bind [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node/blob/master/README.md) to `Vue` or `this` if you're using single file component.
 
-First authenticate with the spotify Web API with the client credential : [how to here](https://github.com/thelinmichael/spotify-web-api-node#authorization)
+First authenticate with the spotify Web API with the client credential : [how to here](https://github.com/thelinmichael/spotify-web-api-node#authorization).
+
 Do not use your own credentials if your application is public !
 
 Then you can use `spotify-web-api-node` like this:
