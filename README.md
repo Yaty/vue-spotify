@@ -8,7 +8,7 @@ npm install --save spotify-web-api-node vue-spotify
 ```
 
 And in your entry file:
-```
+``` javascript
 import Vue from 'vue'
 import Spotify from 'spotify-web-api-node'
 import VueSpotify from 'vue-spotify'
