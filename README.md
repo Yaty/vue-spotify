@@ -22,9 +22,6 @@ import VueSpotify from 'vue-spotify'
 Vue.use(VueSpotify, new Spotify())
 ```
 
-### Script:
-Just add 3 scripts in order: `vue`, `spotify-web-api-node` and `vue-spotify` to your `document`.
-
 ## Usage:
 This wrapper bind [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node/blob/master/README.md) to `Vue` or `this` if you're using single file component.
 

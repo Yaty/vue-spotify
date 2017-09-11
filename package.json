@@ -1,6 +1,6 @@
 {
   "name": "vue-spotify",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A small wrapper for integrating spotify-web-api-node to Vuejs",
   "main": "dist/vue-spotify.min.js",
   "scripts": {

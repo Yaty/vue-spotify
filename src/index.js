@@ -3,7 +3,7 @@
 /**
  * Install plugin
  * @param Vue
- * @param axios
+ * @param spotify
  */
 
 function plugin (Vue, spotify) {
