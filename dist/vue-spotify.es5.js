@@ -7,7 +7,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
   /**
    * Install plugin
    * @param Vue
-   * @param axios
+   * @param spotify
    */
 
   function plugin(Vue, spotify) {
